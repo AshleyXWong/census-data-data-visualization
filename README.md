@@ -1,2 +1,3 @@
 # census-data-data-visualization
-Experimenting with simple data visualization using python pandas, numpy and US census data 1990 found at https://archive.ics.uci.edu/ml/datasets/US+Census+Data+(1990).  Run using Jupyter Notebooks
+Experimenting with simple data visualization using python pandas, numpy and NY Daily Inmates in Custody information found at https://www.kaggle.com/new-york-city/ny-daily-inmates-in-custody#daily-inmates-in-custody.csv 
+Run using Jupyter Notebooks and Spyder
