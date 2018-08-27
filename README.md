@@ -2,6 +2,9 @@
 Experimenting with simple data visualization using python pandas, numpy and NY Daily Inmates in Custody information found at https://www.kaggle.com/new-york-city/ny-daily-inmates-in-custody#daily-inmates-in-custody.csv 
 Run using Jupyter Notebooks and Spyder
 
+This is the kernal I submitted for the NY Daily Inmates in Custody competition! Not that sophisticated but here it is :)
+https://www.kaggle.com/ashleyxwong/analyzing-prisoners-using-data-visualization?scriptVersionId=5334941
+
 ![age_hist](https://user-images.githubusercontent.com/8938974/44633512-63b8b400-a95a-11e8-9846-d10ef078016d.png)
 ![gangaffiliation](https://user-images.githubusercontent.com/8938974/44633518-6b785880-a95a-11e8-989c-0ebf20435f7b.png)
 ![gangaffiliationgender](https://user-images.githubusercontent.com/8938974/44633519-6c10ef00-a95a-11e8-8102-90d87c035592.png)
